@@ -1,0 +1,16 @@
+/.idea/.gitignore
+/AoCJava/AoC.iml
+/AoC.iml
+/AoCJava/AoCJava.iml
+/.idea/checkstyle-idea.xml
+/.idea/description.html
+/.idea/encodings.xml
+/AoCJava/out/production/AoC/input.txt
+/AoCJava/src/input.txt
+/AoCJava/out/production/AoC/input2.txt
+/AoCJava/src/input2.txt
+/AoCJava/out/production/AoC/Main.class
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/project-template.xml
+/.idea/vcs.xml
